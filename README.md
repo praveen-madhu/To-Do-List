@@ -32,18 +32,3 @@ A simple and clean To-Do List web application built with vanilla HTML, CSS, and 
 5. Use the filter buttons (All / Active / Done) to view tasks
 6. Click **Clear completed** to remove all finished tasks
 
-## Project Structure
-
-```
-todo-app/
-└── index.html   (all HTML, CSS, and JavaScript in one file)
-└── README.md
-```
-
-## Live Demo
-
-Open `index.html` directly in your browser — no server needed.
-
----
-
-Made with HTML, CSS, and JavaScript.
